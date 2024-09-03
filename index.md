@@ -45,4 +45,10 @@ To enhance data analysis and visualization, a comprehensive report was created u
 
 ![Geospatial Analysis](assets/HAS5.png)
 
+* * *
 
+## 🚀 **Explore More Projects!**
+
+### [📚 Check out all my projects on GitHub Pages](https://alxmares.github.io)
+
+* * *
